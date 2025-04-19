@@ -43,6 +43,8 @@ conn.close()
 s.close()  
 ```
 
+![Screenshot 2025-04-19 132912](https://github.com/user-attachments/assets/b343be9e-9059-42f9-a198-d3b3e2b4707e)
+
 ### client:
 ```python
 import socket
@@ -71,10 +73,13 @@ while True:
 c.close()  
 
 ```
+![Screenshot 2025-04-19 132835](https://github.com/user-attachments/assets/3a8fc5e8-3f81-433e-b701-d360c9f97007)
+
 ## OUPUT
 
 ### server
-![Screenshot 2025-03-13 104254](https://github.com/user-attachments/assets/f7ff572e-0921-444b-b67a-8721d912c896)
+![Screenshot 2025-04-19 132932](https://github.com/user-attachments/assets/61e0d561-41a4-49f3-bba8-b97a3aba5152)
+
 
 
 
@@ -85,7 +90,8 @@ c.close()
 
 .
 ### client
-![Screenshot 2025-03-13 104339](https://github.com/user-attachments/assets/3482601f-74f6-4621-b203-fdb52a781482)
+![Screenshot 2025-04-19 132902](https://github.com/user-attachments/assets/4f28818d-db1f-41ac-bf21-735376b4d8ed)
+
 
 
 
